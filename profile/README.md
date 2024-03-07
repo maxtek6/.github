@@ -1,3 +1,3 @@
 # Maxtek Consulting
 
-![Maxtek Consulting](logo.jpeg)
+![Maxtek Consulting](https://github.com/maxtek6/.github/blob/main/profile/logo.jpeg)
