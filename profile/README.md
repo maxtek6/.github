@@ -12,7 +12,7 @@ Maxtek is a US-based consulting firm, originally created by Max( Guerrero) and (
 
 + [Lariat.app](https://github.com/lariat-app) - We have been working with a client to meet their app development needs. Although this project is proprietary, it is based on wxReactView, and any changes to this project are made in the open source repository, in the interest of both the client and the community.
 
-+ [hyperpage](hhttps://github.com/maxtek6/hyperpage) - Unsatisfied with existing solutions for bundling web content, we created a framework for reading and writing archives with the purpose of storing and serving static web content. This is one of several projects that benefits from SQLite, providing a single file with high performance read and write operations.
++ [hyperpage](https://github.com/maxtek6/hyperpage) - Unsatisfied with existing solutions for bundling web content, we created a framework for reading and writing archives with the purpose of storing and serving static web content. This is one of several projects that benefits from SQLite, providing a single file with high performance read and write operations.
 
 ## Maxtek Philosophy
 
